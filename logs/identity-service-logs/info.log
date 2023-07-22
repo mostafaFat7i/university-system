@@ -1,0 +1,5 @@
+2023-07-08 12:19:58.448 [http-nio-9898-exec-1] INFO  infoLogger - New user added with id: 1
+2023-07-08 12:34:03.919 [http-nio-9898-exec-6] INFO  infoLogger - New user added with id: 2
+2023-07-08 12:40:50.493 [http-nio-9898-exec-10] INFO  infoLogger - New user added with id: 3
+2023-07-08 12:41:03.318 [http-nio-9898-exec-2] INFO  infoLogger - New user added with id: 4
+2023-07-08 12:48:39.569 [http-nio-9898-exec-6] INFO  infoLogger - New user added with id: 5
